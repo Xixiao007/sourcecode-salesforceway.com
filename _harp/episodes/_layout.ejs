@@ -1,0 +1,32 @@
+<html>
+  <meta charset="utf-8" />
+  <head>
+    <title><%= title %></title>
+    <meta name="description" content="<%= description %>" />
+    <%- partial("../_partials/_head") %>
+  </head>
+  <body>
+    <%- partial("../_partials/_header") %>
+    <main class="episode-page">
+      <div class="episode--info" style="color: <%= color %>">
+        <h1><%= title %></h1>
+
+        <span class="date"><%= date %></span>
+        <p><%= description %></p>
+        <ol>
+          <li class="row">
+            <div class="social-share" data-sites="weibo,wechat,douban,facebook,twitter,google" data-weibo-title="推荐一个优质的语音播客节目[代码时间]" data-wechat-qrcode-title="" data-wechat-qrcode-helper="">分享: </div>
+          </li>
+        </ol>
+        <audio preload="auto" controls src="<%= audio %>"></audio>
+        <a class="download-link" href="<%= audio %>" download>Download the mp3</a>
+        <h2 class="resources-header">Show Notes:</h2>
+
+        <div class="episode--resources">
+          <%- yield %>
+        </div>
+      </div>
+    </main>
+    <%- partial("../_partials/_footer") %>
+  </body>
+</html>
