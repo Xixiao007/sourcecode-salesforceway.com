@@ -1,0 +1,14 @@
+### Show Notes:
+
+- Salesforce Certificate paths for four different roles
+- Guest’s goal to achieve technical architecture certificate
+- The recommended way to prepare for Salesforce certificates from the guest
+- How to learn Salesforce from zero knowledge
+- Trailhead
+- Typical mistakes of customers using Salesforce
+- How to build and document customizations
+- Some best practices of using the platform
+
+### Links:
+
+- [Olli’s Linkedin account](https://www.linkedin.com/in/otimperi/)
