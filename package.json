@@ -1,7 +1,7 @@
 {
-    "name": "codetimecn",
+    "name": "Salesforce Way",
     "version": "1.0.0",
-    "description": "a podcast program for programmer in Chinese language",
+    "description": "a podcast program for Salesforce knowleage sharing",
     "main": "gulpfile.js",
     "scripts": {
         "serve": "harp server _harp",
