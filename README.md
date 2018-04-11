@@ -1,4 +1,4 @@
-# Salesforceway Podcast http://salesforceway.com
+# Salesforce Way Podcast http://salesforceway.com
 
 ## Setup
 
