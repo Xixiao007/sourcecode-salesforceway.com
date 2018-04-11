@@ -1,5 +1,5 @@
 {
-    "name": "Salesforce Way",
+    "name": "sw",
     "version": "1.0.0",
     "description": "a podcast program for Salesforce knowleage sharing",
     "main": "gulpfile.js",
