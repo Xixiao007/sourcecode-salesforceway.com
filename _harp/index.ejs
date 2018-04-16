@@ -15,13 +15,14 @@
     <li class="home__ep" style="color:<%= public.episodes._data[key].color %>">
       <div class="home__ep--color"></div>
       <div class="home__ep-info">
-        <audio preload="none" controls src="<%= public.episodes._data[key].audio %>"></audio>
+        <audio preload="none" controls src="http://media.blubrry.com/salesforceway/<%= public.episodes._data[key].audio %>"></audio>
         <h2 class="home--post-list--title">
           <a href="/episodes/<%= key %>">
             <%= -1*(n - Object.keys(public.episodes._data).length) +1 %>: <%= public.episodes._data[key].title %>
           </a>
         </h2>
         <p class="home__ep-date">
+          <%= public.episodes._data[key].guest %> |
           <%= public.episodes._data[key].date %>
         </p>
         <p class="home__ep-description">

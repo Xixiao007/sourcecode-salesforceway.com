@@ -1,7 +1,8 @@
 {
   "usergroup": {
-    "title": "Local user group - Juho K.",
+    "title": "Finlad local user group",
     "date": "2018-03-06",
+    "guest": "Juho Kilkku",
     "description":
       "Juho Kilkku joins us to talk about creating and hosting Finland local user group story as well as his certified instructor role.",
     "audio": "audio.xmcdn.com/group42/M03/0F/A4/wKgJ81qeQFiyz5ozAL-NNN9Aee8759.m4a",
@@ -9,8 +10,9 @@
     "color": "#831b4c"
   },
   "certi": {
-    "title": "Certificates - Olli T.",
+    "title": "Salesforce Certificates",
     "date": "2018-02-20",
+    "guest": "Olli Timperi",
     "description":
       "In the first episode, we invited Olli Timperi to share his experience in acquiring Salesforce certificates.",
     "audio": "audio.xmcdn.com/group19/M01/FA/08/wKgJJlqLP8Cy4zvhAOVgDhAopSo742.m4a",
