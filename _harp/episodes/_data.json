@@ -1,5 +1,15 @@
 {
-  "usergroup": {
+  "e3": {
+    "title": "3rd party frameworks",
+    "date": "2018-04-19",
+    "guest": "Nikita Verkhoshintcev",
+    "description":
+      "Nikita drops by to share his invaluable experience of using popular 3rd party frameworks in Salesforce",
+    "audio": "audio.xmcdn.com/group42/M05/25/57/wKgJ81rXk6XjaZIAAU_I_KtprFM998.m4a",
+    "duration": "0:45:18",
+    "color": "#194444"
+  },
+  "e2": {
     "title": "Finland local user group",
     "date": "2018-03-06",
     "guest": "Juho Kilkku",
@@ -9,7 +19,7 @@
     "duration": "0:25:51",
     "color": "#831b4c"
   },
-  "certi": {
+  "e1": {
     "title": "Salesforce Certificates",
     "date": "2018-02-20",
     "guest": "Olli Timperi",
