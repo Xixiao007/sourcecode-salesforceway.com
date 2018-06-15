@@ -1,4 +1,14 @@
 {
+  "e5": {
+    "title": "Finland Salesforce Academy",
+    "date": "2018-05-30",
+    "guest": "Elli Pennanen",
+    "description":
+      "Salesforce Academy trains unemployed people to skill up and join Salesforce ecosystem. Salesforce consultant Elli Pennanen is here with us to share her Salesforce Academy Journey.",
+    "audio": "audio.xmcdn.com/group44/M02/25/5D/wKgKjFsONfjAau91AMhOB9Vrp54229.m4a",
+    "duration": "0:27:01",
+    "color": "#ff920a"
+  },
   "e4": {
     "title": "Advanced Apex and PluralSight",
     "date": "2018-05-04",
