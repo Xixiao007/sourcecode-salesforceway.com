@@ -19,11 +19,6 @@
       color: currentColor;
     }
 
-    .responsive {
-        width: 100%;
-        height: auto;
-    }
-
     a:hover {
       transition-duration: .5;
       opacity: .6;
@@ -70,6 +65,11 @@
   &--info {
     display: block;
     overflow: hidden;
+
+    .responsive {
+        width: 100%;
+        height: auto;
+    }
 
     ul {
       margin: 1em 2em;
