@@ -3,6 +3,11 @@
   <head>
     <title><%= title %></title>
     <meta name="description" content="<%= description %>" />
+    <meta property="og:description" content="<%= description %>"/>
+    <% if(typeof img !== "undefined"){ %>
+      <meta property="og:image" content="/img/<%= img %>" />
+      <meta property="og:image:url" content="/img/<%= img %>" />
+    <% } %>
     <%- partial("../_partials/_head") %>
   </head>
   <body>
@@ -12,6 +17,10 @@
         <h1><%= title %></h1>
 
         <span class="date"><%= guest %> | <%= date %></span>
+        <% if(typeof img !== "undefined"){ %>
+          <img src="/img/<%= img %>" alt="Salesforce Way" class="responsive">
+        <% } %>
+        <h2 class="resources-header">Description: </h2>
         <p><%= description %></p>
         <ol>
           <li class="row">
@@ -21,7 +30,6 @@
         <audio preload="auto" controls src="http://media.blubrry.com/salesforceway/<%= audio %>"></audio>
         <a class="download-link" href="http://media.blubrry.com/salesforceway/<%= audio %>" download>Download the mp3</a>
         <h2 class="resources-header">Show Notes:</h2>
-
         <div class="episode--resources">
           <%- yield %>
         </div>

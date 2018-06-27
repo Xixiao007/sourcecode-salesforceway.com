@@ -19,6 +19,11 @@
       color: currentColor;
     }
 
+    .responsive {
+        width: 100%;
+        height: auto;
+    }
+
     a:hover {
       transition-duration: .5;
       opacity: .6;
@@ -47,8 +52,8 @@
   }
 
   &--resources {
-    -webkit-column-count: 2;
-    -webkit-column-gap: 4em;
+    // -webkit-column-count: 2;
+    // -webkit-column-gap: 4em;
 
     @include breakpoint(md) {
       -webkit-column-count: 1;
