@@ -3,15 +3,14 @@
   <head>
     <title><%= title %></title>
     <meta name="description" content="<%= description %>" />
-    <meta property="og:description" content="<%= description %>"/>
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Salesforce Way podcast" />
-    <meta property="og:site_name" content="Salesforce Way" />
-    <meta property="og:url" content="http://salesforceway.com" />
+    <meta property="og:title" content="<%= title %>" />
     <% if(typeof img !== "undefined"){ %>
-      <meta property="og:image" content="/img/ep/<%= img %>" />
-      <meta property="og:image:url" content="/img/ep/<%= img %>" />
+    <meta property="og:image" content="/img/ep/<%= img %>" />
     <% } %>
+    <meta property="og:description" content="<%= description %>"/>
+    <meta property="og:url" content="/episodes/<%= suffix %>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Salesforce Way" />
     <%- partial("../_partials/_head") %>
   </head>
   <body>
@@ -22,7 +21,7 @@
 
         <span class="date"><%= guest %> | <%= date %></span>
         <% if(typeof img !== "undefined"){ %>
-          <img src="/img/ep/<%= img %>" alt="Salesforce Way" class="responsive">
+        <img src="/img/ep/<%= img %>" alt="Salesforce Way" class="responsive">
         <% } %>
         <h2 class="resources-header">Description: </h2>
         <p><%= description %></p>
