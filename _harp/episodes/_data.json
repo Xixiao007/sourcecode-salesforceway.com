@@ -4,9 +4,9 @@
     "img": "e8.png",
     "title": "Static Code Analysis with PMD for Apex",
     "date": "2018-06-28",
-    "guest": "Robert Soesemann",
+    "guest": "Robert Sösemann",
     "description":
-      "Robert Soesemann ported PMD, a static code analyzer, to the Salesforce world. He teaches me what this is all about. This talk is a continuation from the last episode.",
+      "Robert Söesemann ported PMD, a static code analyzer, to the Salesforce world. He teaches me what this is all about. This talk is a continuation from the last episode.",
     "audio": "audio.xmcdn.com/group33/M01/70/83/wKgJUVsz6-nDsHLkARGbJ-FdNsU392.m4a",
     "duration": "0:36:54",
     "color": "#5a6872"
@@ -16,9 +16,9 @@
     "img": "e7.jpg",
     "title": "Clean code and Code Agility",
     "date": "2018-06-28",
-    "guest": "Robert Soesemann",
+    "guest": "Robert Sösemann",
     "description":
-      "Robert Soesemann from Up2go guests in the show to talk about Clean code and Code Agility. Every salesforce programmer needs to pick these up, it is simply THAT important!",
+      "Robert Sösemann from Up2go guests in the show to talk about Clean code and Code Agility. Every salesforce programmer needs to pick these up, it is simply THAT important!",
     "audio": "audio.xmcdn.com/group22/M01/42/1F/wKgJLlsz61rDnt1hAPWtWKuGvjg711.m4a",
     "duration": "0:33:08",
     "color": "#5a6872"
