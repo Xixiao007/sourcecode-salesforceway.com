@@ -1,4 +1,16 @@
 {
+  "e9": {
+    "suffix": "e9",
+    "img": "e9.jpg",
+    "title": "Quality Engieering",
+    "date": "2018-09-16",
+    "guest": "Ari Luokkala",
+    "description":
+      "Our guest Ari is an experienced quality and automation engieer. He spent time sitting with me on educating how quality engineering can contribute in our Salesforce develoment, and what specific challenges are exposed in the context of Salesforce environment.",
+    "audio": "audio.xmcdn.com/group46/M07/B1/0A/wKgKj1uSPEvwQiSIAP4ecaQx7sQ805.m4a",
+    "duration": "0:37:14",
+    "color": "#0715cd"
+  },
   "e8": {
     "suffix": "e8",
     "img": "e8.png",
