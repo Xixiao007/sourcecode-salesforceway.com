@@ -1,4 +1,16 @@
 {
+  "e10": {
+    "suffix": "e9",
+    "img": "e10.png",
+    "title": "Open source",
+    "date": "2018-10-22",
+    "guest": "Ruslan Kurchenko",
+    "description":
+      "Sfdc-Lax project author Ruslan joins us to talk about open source and development environment setup.",
+    "audio": "audio.xmcdn.com/group49/M06/7F/06/wKgKmFvNpyiDdosLAUfEUscEYVE565.m4a",
+    "duration": "0:44:13",
+    "color": "#735144"
+  },
   "e9": {
     "suffix": "e9",
     "img": "e9.jpg",
