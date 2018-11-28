@@ -1,8 +1,20 @@
 {
+  "e11": {
+    "suffix": "e11",
+    "img": "e11.jpg",
+    "title": "Sales Business",
+    "date": "2018-11-28",
+    "guest": "Lauri Kurki",
+    "description":
+      "Sales expert Lauri Kurki is here to talk about what sales is and how Salesforce aids sales business. Why we developers might wanna learn sales? Let's tune in!",
+    "audio": "http://audio.xmcdn.com/group54/M08/54/DB/wKgLfVv-_WTh7bVZAR82fccvOTw547.m4a",
+    "duration": "0:38:45",
+    "color": "#735144"
+  },
   "e10": {
-    "suffix": "e9",
+    "suffix": "e10",
     "img": "e10.png",
-    "title": "Open source",
+    "title": "Open Source",
     "date": "2018-10-22",
     "guest": "Ruslan Kurchenko",
     "description":
