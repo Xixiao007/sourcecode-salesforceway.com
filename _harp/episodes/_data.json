@@ -1,4 +1,16 @@
 {
+  "e12": {
+    "suffix": "e12",
+    "img": "e12.png",
+    "title": "Create DX Plugin",
+    "date": "2019-02-01",
+    "guest": "Shane McLaughlin",
+    "description":
+      "DX, Scratch org, and 2nd generation packaging form the new paradigm of Salesforce development. In this talk, Shane shares what DX plugin can do and how to create it to facilitate developers' work.",
+    "audio": "http://audio.xmcdn.com/group55/M01/69/9A/wKgLdVxUopzgQdrIAQMWSai_y5M748.m4a",
+    "duration": "0:34:57",
+    "color": "#1e62ce"
+  },
   "e11": {
     "suffix": "e11",
     "img": "e11.jpg",
