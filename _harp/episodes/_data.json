@@ -1,13 +1,24 @@
 {
-  "e12": {
+  "e13": {
+    "suffix": "e13",
+    "img": "e13.jpg",
+    "title": "Monolithic to Modular",
+    "date": "2019-03-04",
+		"guest": "John Daniel",
+    "description": "DX, Scratch org, and 2nd generation packaging form the new paradigm of Salesforce development. John Daniel shares how he helps large firms transfer the existing codebase from monolithic to the new modular way.",
+    "audio": "audio.xmcdn.com/group55/M01/69/27/wKgLdVx6t3bR_V7ZAWhHJ5H35FI357.m4a",
+    "duration": "0:48:36",
+    "color": "#8f689a"
+	},
+	"e12": {
     "suffix": "e12",
     "img": "e12.png",
     "title": "Create DX Plugin",
     "date": "2019-02-01",
     "guest": "Shane McLaughlin",
     "description":
-      "DX, Scratch org, and 2nd generation packaging form the new paradigm of Salesforce development. In this talk, Shane shares what DX plugin can do and how to create it to facilitate developers' work.",
-    "audio": "http://audio.xmcdn.com/group55/M01/69/9A/wKgLdVxUopzgQdrIAQMWSai_y5M748.m4a",
+      "In this talk, Shane shares what DX plugin can do and how to create it to facilitate developers' work.",
+    "audio": "audio.xmcdn.com/group55/M01/69/9A/wKgLdVxUopzgQdrIAQMWSai_y5M748.m4a",
     "duration": "0:34:57",
     "color": "#1e62ce"
   },
@@ -19,7 +30,7 @@
     "guest": "Lauri Kurki",
     "description":
       "Sales expert Lauri Kurki is here to talk about what sales is and how Salesforce aids sales business. Why we developers might wanna learn sales? Let's tune in!",
-    "audio": "http://audio.xmcdn.com/group54/M08/54/DB/wKgLfVv-_WTh7bVZAR82fccvOTw547.m4a",
+    "audio": "audio.xmcdn.com/group54/M08/54/DB/wKgLfVv-_WTh7bVZAR82fccvOTw547.m4a",
     "duration": "0:38:45",
     "color": "#735144"
   },
@@ -33,7 +44,7 @@
       "Sfdc-Lax project author Ruslan joins us to talk about open source and development environment setup.",
     "audio": "audio.xmcdn.com/group49/M06/7F/06/wKgKmFvNpyiDdosLAUfEUscEYVE565.m4a",
     "duration": "0:44:13",
-    "color": "#735144"
+		"color": "#95c3d0"
   },
   "e9": {
     "suffix": "e9",
